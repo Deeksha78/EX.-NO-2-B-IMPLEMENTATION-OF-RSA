@@ -72,7 +72,7 @@ int main() {
     // Decryption: m = (c ^ d) % n
     long long m = (long long)pow(c, d) % n;
     printf("Original Message Sent = %lld\n", m);
-    printf("Code by ABINAV SANKAR");
+    
     return 0;
 }
 ```
